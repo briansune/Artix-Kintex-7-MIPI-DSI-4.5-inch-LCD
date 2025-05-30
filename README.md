@@ -1,4 +1,4 @@
-# Artix or Kintex 7 MIPI DSI 4.5" LCD
+# Artix or Kintex 7 MIPI DSI 4.5" LCD (Driver IC: NT35516)
 
 ## If this project is constructive, welcome to donate a drink to PayPal.
 
